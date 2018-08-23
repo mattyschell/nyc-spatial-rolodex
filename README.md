@@ -1,16 +1,19 @@
 # nyc-spatial-rolodex
 
+[Table of Contents](https://github.com/mattyschell/nyc-spatial-rolodex/wiki)
+
 ## A
 
 ## B
 
-[[Borough-Boundaries]]
+[Borough-Boundaries](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Boundaries)
 
-[[Borough-Quadrants]]
+[Borough-Quadrants](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Quadrants])
 
-[[Building-Footprints]]
+[Building-Footprints](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Building-Footprints])
 
-[[Business-Improvement-Districts]]
+[Business-Improvement-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Business-Improvement-Districts)
+
 
 ## C
 
@@ -24,14 +27,13 @@
 
 ## H
 
-[[Historic-Districts]]
-
+[Historic-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts])
 
 ## I
 
-[[Individual-Landmarks]]
+[Individual-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
 
-[[Interior-Landmarks]]
+[Interior-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Interior-Landmarks)
 
 ## J
 
@@ -39,11 +41,12 @@
 
 ## L
 
-[[Link-NYC-Kiosks]]
+[Link-NYC-Kiosks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Link-NYC-Kiosks)
 
 ## M
 
-[[Mappluto]]
+[Mappluto](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Mappluto)
+
 
 ## N
 
@@ -51,13 +54,14 @@
 
 ## P
 
-[[Park-Properties]]
 
-[[Park-Zones]]
+[Park-Properties](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Properties)
 
-[[Police-Precincts]]
+[Park-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Zones)
 
-[[Police-Sectors]]
+[Police-Precincts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Precincts)
+
+[Police-Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Sectors)
 
 ## Q
 
@@ -65,13 +69,13 @@
 
 ## S
 
-[[Scenic-Landmarks]]
+[Scenic-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Scenic-Landmarks)
 
-[[Subway-Entrances]]
+[Subway-Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
 
-[[Subway-Lines]]
+[Subway-Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
 
-[[Subway-Stations]]
+[Subway-Stations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Stations)
 
 ## T
 
@@ -81,7 +85,7 @@
 
 ## W
 
-[[Wifi-Hotspots]]
+[Wifi-Hotspots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Wifi-Hotspots)
 
 ## X
 
@@ -89,4 +93,5 @@
 
 ## Z
 
-[[Zip-Codes]]
+[Zip-Codes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Zip-Codes)
+
