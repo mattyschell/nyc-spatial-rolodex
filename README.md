@@ -1,5 +1,11 @@
 # nyc-spatial-rolodex
 
+There is no authoritative source for spatial data in the City of New York.  This quixotic wiki repository contains human-centric info and errata related to spatial datasets scattered throughout New York City.  
+
+## Contributing
+
+:+1:
+
 [Table of Contents](https://github.com/mattyschell/nyc-spatial-rolodex/wiki)
 
 ## A
@@ -18,6 +24,8 @@
 
 
 ## C
+
+[Capital-Street-Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Street-Projects)
 
 ## D
 
