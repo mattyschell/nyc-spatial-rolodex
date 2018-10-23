@@ -6,6 +6,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 :+1:
 
+----
+
 [Table of Contents](https://github.com/mattyschell/nyc-spatial-rolodex/wiki)
 
 ## A
@@ -30,6 +32,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 ## D
 
 ## E
+
+[Election-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Election-Districts)
 
 ## F
 
