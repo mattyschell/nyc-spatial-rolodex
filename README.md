@@ -89,6 +89,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 [Scenic-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Scenic-Landmarks)
 
+[Schools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Schools)
+
 [Subway-Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
 
 [Subway-Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
