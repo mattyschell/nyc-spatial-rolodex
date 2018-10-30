@@ -43,6 +43,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 [Historic-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts)
 
+[Housing-Authority-Developments](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Housing-Authority-Developments)
+
 ## I
 
 [Individual-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
