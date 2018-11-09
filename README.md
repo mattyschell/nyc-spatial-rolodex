@@ -95,6 +95,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 [Sanitation-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Districts)
 
+[Sanitation-Garages](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Garages)
+
 [Sanitation-Sections](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Sections)
 
 [Sanitation-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Zones)
