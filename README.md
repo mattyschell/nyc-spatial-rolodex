@@ -33,6 +33,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 [Commercial-Waste-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Commercial-Waste-Zones)
 
+[Community-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Community-Districts)
+
 ## D
 
 ## E
