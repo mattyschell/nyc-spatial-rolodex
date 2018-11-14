@@ -105,6 +105,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 
 [Schools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Schools)
 
+[Snow-Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
+
 [Subway-Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
 
 [Subway-Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
