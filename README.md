@@ -1,6 +1,6 @@
 # nyc-spatial-rolodex
 
-There is no authoritative source for spatial data in the City of New York.  This quixotic wiki repository contains human-centric info and errata related to spatial datasets scattered throughout New York City.  
+There is no up-to-date universal source of spatial data in the City of New York.  This quixotic wiki repository contains human-centric info and errata useful when searching for and using spatial data.
 
 ## Contributing
 
@@ -80,6 +80,8 @@ There is no authoritative source for spatial data in the City of New York.  This
 [Park-Properties](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Properties)
 
 [Park-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Zones)
+
+[Points-Of-Interest](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Points-Of-Interest)
 
 [Poletop-Installations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Poletop-Installations)
 
