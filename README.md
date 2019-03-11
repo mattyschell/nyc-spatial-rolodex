@@ -97,6 +97,8 @@ There is no up-to-date universal source of spatial data in the City of New York.
 
 [Police-Transit-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Transit-Districts)
 
+[Property-Address-Directory](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Property-Address-Directory)
+
 
 ## Q
 
