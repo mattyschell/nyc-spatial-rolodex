@@ -14,6 +14,8 @@ There is no up to date, comprehensive source of spatial data in New York City. T
 
 [Address-Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Address-Points)
 
+[Assembly-Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Assembly-Districts)
+
 ## B
 
 [Bicycle-Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bicycle-Parking)
@@ -125,6 +127,8 @@ There is no up to date, comprehensive source of spatial data in New York City. T
 [Scenic-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Scenic-Landmarks)
 
 [Schools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Schools)
+
+[Senate-Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Senate-Districts)
 
 [Snow-Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
 
