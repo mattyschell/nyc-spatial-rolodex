@@ -35,6 +35,8 @@ There is no up to date, comprehensive source of spatial data in New York City. T
 
 [Capital-Street-Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Street-Projects)
 
+[City-Council-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Council-Districts)
+
 [Commercial-Waste-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Commercial-Waste-Zones)
 
 [Community-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Community-Districts)
