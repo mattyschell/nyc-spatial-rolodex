@@ -1,6 +1,8 @@
 # nyc-spatial-rolodex
 
-There is no up to date, comprehensive source of spatial data in New York City. This fanciful wiki repository contains plain language info and tips useful when searching for and using spatial data in New York City. It is our repo my friends, our rules, the trick is to never be afraid.
+There is no up to date, comprehensive source of spatial data in New York City.  To understand why you might like to reckon [with a chart.](https://www1.nyc.gov/office-of-the-mayor/org-chart.page) 
+
+This fanciful wiki repository contains plain language info and tips useful when searching for and using spatial data in New York City. It is our repo my friends, our rules, the trick is to never be afraid.
 
 ## Contributing
 
