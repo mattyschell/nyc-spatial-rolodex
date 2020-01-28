@@ -67,6 +67,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Individual-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
 
+[Infrastructure-Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Infrastructure-Projects)
+
 [Interior-Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Interior-Landmarks)
 
 ## J
@@ -118,6 +120,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 [Port-Authority](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Port-Authority)
 
 [Property-Address-Directory](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Property-Address-Directory)
+
+[Public-Buildings-Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Public-Buildings-Projects)
 
 
 ## Q
