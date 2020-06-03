@@ -96,6 +96,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Off-Street-Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Off-Street-Parking)
 
+[Open-Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Open-Streets)
+
 [Orthophotography](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Orthophotography)
 
 ## P
