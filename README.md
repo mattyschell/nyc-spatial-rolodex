@@ -35,6 +35,10 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## C
 
+[Capital-Projects-Buildings](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Projects-Buildings)
+
+[Capital-Projects-Infrastructure](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Projects-Infrastructure)
+
 [Capital-Street-Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Street-Projects)
 
 [City-Council-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Council-Districts)
