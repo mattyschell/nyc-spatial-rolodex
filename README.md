@@ -154,6 +154,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Snow-Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
 
+[Subaddresses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subaddresses)
+
 [Subway-Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
 
 [Subway-Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
