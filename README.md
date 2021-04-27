@@ -18,6 +18,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Assembly-Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Assembly-Districts)
 
+[Atomic-Polygons](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Atomic-Polygons)
+
 ## B
 
 [Bicycle-Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bicycle-Parking)
@@ -66,6 +68,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 [Historic-Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts)
 
 [Housing-Authority-Developments](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Housing-Authority-Developments)
+
+[Hurricane-Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hurricane-Zones)
 
 ## I
 
