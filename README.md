@@ -83,6 +83,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## J
 
+[Joint-Interest-Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Joint-Interest-Areas)
+
 ## K
 
 ## L
