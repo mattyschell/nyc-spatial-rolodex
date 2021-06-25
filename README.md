@@ -91,7 +91,7 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Land](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Land)
 
-[Link-NYC-Kiosks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Link-NYC-Kiosks)
+[Link NYC Kiosks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Link-NYC-Kiosks)
 
 [LION (streets)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Lion)
 
@@ -103,6 +103,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 ## N
 
 [Neighborhoods](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Neighborhoods)
+
+[Neighborhood Tabulation Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Neighborhood-Tabulation-Areas)
 
 ## O
 
