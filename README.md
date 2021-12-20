@@ -99,6 +99,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [LION (streets)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Lion)
 
+[Loft Board Buildings](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Loft-Board-Buildings)
+
 ## M
 
 [Mappluto (Map Primary Land Use Tax Lot Output)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Mappluto)
