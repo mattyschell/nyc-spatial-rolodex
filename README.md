@@ -123,6 +123,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 ## P
 
 
+[Parking Meters](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Parking-Meters)
+
 [Park Properties](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Properties)
 
 [Park Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Zones)
