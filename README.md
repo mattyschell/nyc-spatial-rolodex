@@ -204,6 +204,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Zip Codes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Zip-Codes)
 
+[Zoning](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Zoning)
+
 ----
 
 
