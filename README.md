@@ -147,6 +147,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Protected Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Protected-Streets)
 
+[Pseudo Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pseudo-Lots)
+
 [Public Buildings Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Public-Buildings-Projects)
 
 [Public Safety Answering Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Public-Safety-Answering-Points)
