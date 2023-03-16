@@ -45,6 +45,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [City Council Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Council-Districts)
 
+[City Map](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Map)
+
 [Commercial Waste Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Commercial-Waste-Zones)
 
 [Community Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Community-Districts)
