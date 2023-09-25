@@ -55,8 +55,6 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Congressional Districts (national)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Congressional-Districts)
 
-[Coordinate Reference Systems of NYC](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Coordinate-Reference-Systems-of-NYC)
-
 ## D
 
 ## E
