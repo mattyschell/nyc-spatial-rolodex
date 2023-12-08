@@ -190,6 +190,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## T
 
+[Tax Blocks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Blocks)
+
 [Tax Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Lots)
 
 [Truck Routes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Truck-Routes)
