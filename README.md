@@ -16,6 +16,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Address Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Address-Points)
 
+[Air Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Air-Lots)
+
 [Assembly Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Assembly-Districts)
 
 [Atomic Polygons](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Atomic-Polygons)
