@@ -24,6 +24,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## B
 
+[Boardwalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Boardwalk)
+
 [Bicycle Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bicycle-Parking)
 
 [Borough Boundaries](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Boundaries)
