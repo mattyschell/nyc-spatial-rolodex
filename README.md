@@ -94,6 +94,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Hurricane Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hurricane-Zones)
 
+[Hydro Structure](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hydro-Structure)
+
 ## I
 
 [Individual Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
