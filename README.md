@@ -96,6 +96,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Hydro Structure](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hydro-Structure)
 
+[Hydrography](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hydrography)
+
 ## I
 
 [Individual Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
