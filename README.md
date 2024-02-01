@@ -65,7 +65,7 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Curb](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb)
 
-[Curb](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb_Cut)
+[Curb Cut](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb_Cut)
 
 
 ## D
