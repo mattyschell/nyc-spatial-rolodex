@@ -74,6 +74,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Election Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Election-Districts)
 
+[Elevation](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Elevation)
+
 [Empire Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Empire-Zones)
 
 ## F
