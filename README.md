@@ -126,6 +126,7 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Mappluto (Map Primary Land Use Tax Lot Output)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Mappluto)
 
+[Median](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Median)
 
 ## N
 
