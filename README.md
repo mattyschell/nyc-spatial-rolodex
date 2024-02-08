@@ -151,7 +151,7 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Parking Meters](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Parking-Meters)
 
-[Parking Meters](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park)
+[Park](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park)
 
 [Park Properties](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Properties)
 
