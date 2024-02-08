@@ -24,11 +24,11 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## B
 
-[Boardwalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Boardwalk)
-
 [Bicycle Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bicycle-Parking)
 
 [Billboards and Signs](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Billboards-and-Signs)
+
+[Boardwalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Boardwalk)
 
 [Borough Boundaries](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Boundaries)
 
@@ -139,6 +139,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 ## O
 
 [Off Street Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Off-Street-Parking)
+
+[Open Space](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Open-Space)
 
 [Open Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Open-Streets)
 
