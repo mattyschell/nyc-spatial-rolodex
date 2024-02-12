@@ -158,6 +158,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Parking Meters](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Parking-Meters)
 
+[Pavement Edge](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pavement-Edge)
+
 [Points Of Interest](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Points-Of-Interest)
 
 [Poletop Installations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Poletop-Installations)
