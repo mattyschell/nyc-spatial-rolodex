@@ -191,6 +191,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## R
 
+[Railroads](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Railroads)
+
 ## S
 
 [Sanitation Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Districts)
