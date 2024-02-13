@@ -209,6 +209,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Senate Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Senate-Districts)
 
+[Shoreline](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Shoreline)
+
 [Snow Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
 
 [Subaddresses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subaddresses)
