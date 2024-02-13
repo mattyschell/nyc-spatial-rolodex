@@ -211,6 +211,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Shoreline](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Shoreline)
 
+[Sidewalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sidewalk)
+
 [Snow Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
 
 [Subaddresses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subaddresses)
