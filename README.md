@@ -221,7 +221,7 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Subway Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
 
-[Subway Stations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Stations)
+[Swimmming Pools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Swimming-Pools)
 
 ## T
 
