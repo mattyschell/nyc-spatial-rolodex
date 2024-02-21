@@ -193,6 +193,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## R
 
+[Rail Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Rail-Bridges)
+
 [Railroads](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Railroads)
 
 ## S
