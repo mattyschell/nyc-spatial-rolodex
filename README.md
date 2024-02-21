@@ -162,6 +162,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Pavement Edge](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pavement-Edge)
 
+[Pedestrian Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pedestrian-Bridges)
+
 [Plazas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Plazas)
 
 [Points Of Interest](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Points-Of-Interest)
