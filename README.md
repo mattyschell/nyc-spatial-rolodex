@@ -34,6 +34,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Borough Quadrants](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Quadrants)
 
+[Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bridges)
+
 [Brownfields](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Brownfields)
 
 [Building Footprints](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Building-Footprints)
