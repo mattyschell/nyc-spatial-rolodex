@@ -251,6 +251,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## W
 
+[Water Tanks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Water-Tanks)
+
 [Wifi Hotspots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Wifi-Hotspots)
 
 ## X
