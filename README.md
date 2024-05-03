@@ -241,6 +241,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Tax Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Lots)
 
+[Tax Map](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Map)
+
 [Truck Routes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Truck-Routes)
 
 [Tunnels](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tunnels)
