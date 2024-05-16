@@ -229,6 +229,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Subaddresses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subaddresses)
 
+[Subterranean Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subterranean-Lots)
+
 [Subway Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
 
 [Subway Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
