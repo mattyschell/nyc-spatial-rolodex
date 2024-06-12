@@ -67,6 +67,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Congressional Districts (national)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Congressional-Districts)
 
+[Court Districts (municipal)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Court-Districts)
+
 [Curb](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb)
 
 [Curb Cut](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb-Cut)
