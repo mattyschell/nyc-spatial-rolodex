@@ -100,6 +100,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## H
 
+[Health Area](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Area)
+
 [Historic Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts)
 
 [Holiday Embargo Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Holiday-Embargo-Streets)
