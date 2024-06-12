@@ -92,6 +92,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Fire Companies](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Companies)
 
+[Fire Divisions](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Divisions)
+
 [Food Retail Expansion to Support Health (FRESH)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Food-Retail-Expansion-to-Support-Health)
 
 ## G
