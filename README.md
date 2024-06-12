@@ -100,7 +100,9 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## H
 
-[Health Area](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Area)
+[Health Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Areas)
+
+[Health Centers](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Centers)
 
 [Historic Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts)
 
