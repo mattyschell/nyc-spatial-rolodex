@@ -88,6 +88,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## F
 
+[Fire Battalions](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Battalions)
+
 [Food Retail Expansion to Support Health (FRESH)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Food-Retail-Expansion-to-Support-Health)
 
 ## G
