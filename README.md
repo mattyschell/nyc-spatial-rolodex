@@ -186,6 +186,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 [Poletop Installations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Poletop-Installations)
 
+[Police Borough Commands](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Borough-Commands)
+
 [Police Precincts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Precincts)
 
 [Police Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Sectors)
