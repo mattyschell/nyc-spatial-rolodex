@@ -98,6 +98,8 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## G
 
+[Greater Transit Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Greater-Transit-Zones)
+
 ## H
 
 [Health Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Areas)
