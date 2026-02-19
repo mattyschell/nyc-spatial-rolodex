@@ -2,15 +2,7 @@
 
 There is no up to date, comprehensive source of spatial data in New York City.  To understand why you might like to reckon [with a chart.](https://web.archive.org/web/20210925013927/https://www1.nyc.gov/assets/home/downloads/pdf/reports/2014/NYC-Organizational-Chart.pdf) 
 
-This fanciful wiki repository contains plain language info and tips useful when searching for and using spatial data in New York City. It is our repo my friends, our rules, the trick is to never be afraid.
-
-## Contributing
-
-:+1:
-
-----
-
-[Table of Contents](https://github.com/mattyschell/nyc-spatial-rolodex/wiki)
+This repository uses plain language info to help search for and use spatial data in New York City. Friends this is our language, our rules, the trick is to never be afraid.
 
 ## A
 
