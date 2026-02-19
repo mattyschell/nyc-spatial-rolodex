@@ -7,7 +7,7 @@ Neighborhood Tabulation Areas are similar to, but not exactly the same as [neigh
 The characters at the Department of City Planning have come up with 6 character codes for 2020 Neighborhood Tabulation Areas.  Fans of the 2010 Neighborhood Tabulation Area codes will notice that we have 2 more digits in 2020 than in 2010.
 
 * 2 characters for [borough](Borough-Boundaries)
-* 2 digits for [community district](Community-District)
+* 2 digits for [community district](Community-Districts)
 * 1 digit for "type"
 * 1 digit creating a unique ID
 
