@@ -1,0 +1,5 @@
+Subaddresses are also known as unit addresses.  [Address-Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Address-Points) typically have related subaddresses when the building has multiple addressable units like "Apt 1, Apt2" etc.  
+
+The NYC Department of City Planning and NYC Office of Technology and Innovation maintain subaddresses in the Citywide Street Centerline database.  These subaddresses are used in emergency response and related geocoding but are never published.  
+
+The NYC Office Of Emergency management purchases unit data from [Melissa](https://www.melissa.com/) which in turn feeds into the subaddress data set. The use agreement with the vendor limits use of the data to specific activities, and as a result subaddress data is not widely available even within city agencies or shared with other governments (ex New York State). 

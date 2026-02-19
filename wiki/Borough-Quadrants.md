@@ -1,0 +1,1 @@
+The Office of Emergency Management (OEM) maintains an internal dataset called Borough Quadrants.  Borough Quadrants are aggregations of [[Zip-Codes]] within [[Borough-Boundaries]], and have names like "South Manhattan" or something similar.

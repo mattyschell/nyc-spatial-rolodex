@@ -14,258 +14,258 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## A
 
-[Address Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Address-Points)
+[Address Points](./wiki/Address-Points.md)
 
-[Air Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Air-Lots)
+[Air Lots](./wiki/Air-Lots.md)
 
-[Assembly Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Assembly-Districts)
+[Assembly Districts (state)](./wiki/Assembly-Districts.md)
 
-[Atomic Polygons](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Atomic-Polygons)
+[Atomic Polygons](./wiki/Atomic-Polygons.md)
 
 ## B
 
-[Bicycle Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bicycle-Parking)
+[Bicycle Parking](./wiki/Bicycle-Parking.md)
 
-[Billboards and Signs](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Billboards-and-Signs)
+[Billboards and Signs](./wiki/Billboards-and-Signs.md)
 
-[Boardwalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Boardwalk)
+[Boardwalk](./wiki/Boardwalk.md)
 
-[Borough Boundaries](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Boundaries)
+[Borough Boundaries](./wiki/Borough-Boundaries.md)
 
-[Borough Quadrants](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Borough-Quadrants)
+[Borough Quadrants](./wiki/Borough-Quadrants.md)
 
-[Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Bridges)
+[Bridges](./wiki/Bridges.md)
 
-[Brownfields](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Brownfields)
+[Brownfields](./wiki/Brownfields.md)
 
-[Building Footprints](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Building-Footprints)
+[Building Footprints](./wiki/Building-Footprints.md)
 
-[Business Improvement Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Business-Improvement-Districts)
+[Business Improvement Districts](./wiki/Business-Improvement-Districts.md)
 
 
 ## C
 
-[Capital Projects Buildings](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Projects-Buildings)
+[Capital Projects Buildings](./wiki/Capital-Projects-Buildings.md)
 
-[Capital Projects Infrastructure](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Projects-Infrastructure)
+[Capital Projects Infrastructure](./wiki/Capital-Projects-Infrastructure.md)
 
-[Capital Street Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Capital-Street-Projects)
+[Capital Street Projects](./wiki/Capital-Street-Projects.md)
 
-[City Council Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Council-Districts)
+[City Council Districts](./wiki/City-Council-Districts.md)
 
-[City Map](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/City-Map)
+[City Map](./wiki/City-Map.md)
 
-[Commercial Waste Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Commercial-Waste-Zones)
+[Commercial Waste Zones](./wiki/Commercial-Waste-Zones.md)
 
-[Community Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Community-Districts)
+[Community Districts](./wiki/Community-Districts.md)
 
-[Community District Tabulation Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Community-District-Tabulation-Areas)
+[Community District Tabulation Areas](./wiki/Community-District-Tabulation-Areas.md)
 
-[Cooling Towers](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Cooling-Towers)
+[Cooling Towers](./wiki/Cooling-Towers.md)
 
-[Condominiums](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Condominiums)
+[Condominiums](./wiki/Condominiums.md)
 
-[Congressional Districts (national)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Congressional-Districts)
+[Congressional Districts (national)](./wiki/Congressional-Districts.md)
 
-[Court Districts (municipal)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Court-Districts)
+[Court Districts (municipal)](./wiki/Court-Districts.md)
 
-[Curb](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb)
+[Curb](./wiki/Curb.md)
 
-[Curb Cut](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Curb-Cut)
+[Curb Cut](./wiki/Curb-Cut.md)
 
 
 ## D
 
 ## E
 
-[Election Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Election-Districts)
+[Election Districts](./wiki/Election-Districts.md)
 
-[Elevation](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Elevation)
+[Elevation](./wiki/Elevation.md)
 
-[Empire Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Empire-Zones)
+[Empire Zones](./wiki/Empire-Zones.md)
 
-[Excavation-Construction](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Excavation-Construction)
+[Excavation-Construction](./wiki/Excavation-Construction.md)
 
 ## F
 
-[Fire Battalions](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Battalions)
+[Fire Battalions](./wiki/Fire-Battalions.md)
 
-[Fire Companies](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Companies)
+[Fire Companies](./wiki/Fire-Companies.md)
 
-[Fire Divisions](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Fire-Divisions)
+[Fire Divisions](./wiki/Fire-Divisions.md)
 
-[Food Retail Expansion to Support Health (FRESH)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Food-Retail-Expansion-to-Support-Health)
+[Food Retail Expansion to Support Health (FRESH)](./wiki/Food-Retail-Expansion-to-Support-Health.md)
 
 ## G
 
-[Greater Transit Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Greater-Transit-Zones)
+[Greater Transit Zones](./wiki/Greater-Transit-Zones.md)
 
 ## H
 
-[Health Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Areas)
+[Health Areas](./wiki/Health-Areas.md)
 
-[Health Centers](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Health-Centers)
+[Health Centers](./wiki/Health-Centers.md)
 
-[Historic Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Historic-Districts)
+[Historic Districts](./wiki/Historic-Districts.md)
 
-[Holiday Embargo Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Holiday-Embargo-Streets)
+[Holiday Embargo Streets](./wiki/Holiday-Embargo-Streets.md)
 
-[Housing Authority Developments](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Housing-Authority-Developments)
+[Housing Authority Developments](./wiki/Housing-Authority-Developments.md)
 
-[Hurricane Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hurricane-Zones)
+[Hurricane Zones](./wiki/Hurricane-Zones.md)
 
-[Hydro Structure](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hydro-Structure)
+[Hydro Structure](./wiki/Hydro-Structure.md)
 
-[Hydrography](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Hydrography)
+[Hydrography](./wiki/Hydrography.md)
 
 ## I
 
-[Individual Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Individual-Landmarks)
+[Individual Landmarks](./wiki/Individual-Landmarks.md)
 
-[Infrastructure Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Infrastructure-Projects)
+[Infrastructure Projects](./wiki/Infrastructure-Projects.md)
 
-[Interior Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Interior-Landmarks)
+[Interior Landmarks](./wiki/Interior-Landmarks.md)
 
 ## J
 
-[Joint Interest Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Joint-Interest-Areas)
+[Joint Interest Areas](./wiki/Joint-Interest-Areas.md)
 
 ## K
 
 ## L
 
-[Land](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Land)
+[Land](./wiki/Land.md)
 
-[Link NYC Kiosks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Link-NYC-Kiosks)
+[Link NYC Kiosks](./wiki/Link-NYC-Kiosks.md)
 
-[LION (streets)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Lion)
+[LION (streets)](./wiki/Lion.md)
 
-[Loft Board Buildings](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Loft-Board-Buildings)
+[Loft Board Buildings](./wiki/Loft-Board-Buildings.md)
 
 ## M
 
-[Mappluto (Map Primary Land Use Tax Lot Output)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Mappluto)
+[Mappluto (Map Primary Land Use Tax Lot Output)](./wiki/Mappluto.md)
 
-[Median](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Median)
+[Median](./wiki/Median.md)
 
 ## N
 
-[Neighborhoods](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Neighborhoods)
+[Neighborhoods](./wiki/Neighborhoods.md)
 
-[Neighborhood Tabulation Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Neighborhood-Tabulation-Areas)
+[Neighborhood Tabulation Areas](./wiki/Neighborhood-Tabulation-Areas.md)
 
 ## O
 
-[Off Street Parking](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Off-Street-Parking)
+[Off Street Parking](./wiki/Off-Street-Parking.md)
 
-[Open Space](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Open-Space)
+[Open Space](./wiki/Open-Space.md)
 
-[Open Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Open-Streets)
+[Open Streets](./wiki/Open-Streets.md)
 
-[Orthophotography](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Orthophotography)
+[Orthophotography](./wiki/Orthophotography.md)
 
-[Overpasses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Overpasses)
+[Overpasses](./wiki/Overpasses.md)
 
 ## P
 
-[Park](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park)
+[Park](./wiki/Park.md)
 
-[Park Properties](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Properties)
+[Park Properties](./wiki/Park-Properties.md)
 
-[Park Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Park-Zones)
+[Park Zones](./wiki/Park-Zones.md)
 
-[Parking Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Parking-Lots)
+[Parking Lots](./wiki/Parking-Lots.md)
 
-[Parking Meters](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Parking-Meters)
+[Parking Meters](./wiki/Parking-Meters.md)
 
-[Pavement Edge](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pavement-Edge)
+[Pavement Edge](./wiki/Pavement-Edge.md)
 
-[Pedestrian Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pedestrian-Bridges)
+[Pedestrian Bridges](./wiki/Pedestrian-Bridges.md)
 
-[Plazas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Plazas)
+[Plazas](./wiki/Plazas.md)
 
-[Points Of Interest](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Points-Of-Interest)
+[Points Of Interest](./wiki/Points-Of-Interest.md)
 
-[Poletop Installations](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Poletop-Installations)
+[Poletop Installations](./wiki/Poletop-Installations.md)
 
-[Police Borough Commands](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Borough-Commands)
+[Police Borough Commands](./wiki/Police-Borough-Commands.md)
 
-[Police Precincts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Precincts)
+[Police Precincts](./wiki/Police-Precincts.md)
 
-[Police Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Sectors)
+[Police Sectors](./wiki/Police-Sectors.md)
 
-[Police Service Areas](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Service-Areas)
+[Police Service Areas](./wiki/Police-Service-Areas.md)
 
-[Police Transit Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Police-Transit-Districts)
+[Police Transit Districts](./wiki/Police-Transit-Districts.md)
 
-[Port Authority](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Port-Authority)
+[Port Authority](./wiki/Port-Authority.md)
 
-[Property Address Directory (PAD)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Property-Address-Directory)
+[Property Address Directory (PAD)](./wiki/Property-Address-Directory.md)
 
-[Protected Streets](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Protected-Streets)
+[Protected Streets](./wiki/Protected-Streets.md)
 
-[Pseudo Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Pseudo-Lots)
+[Pseudo Lots](./wiki/Pseudo-Lots.md)
 
-[Public Buildings Projects](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Public-Buildings-Projects)
+[Public Buildings Projects](./wiki/Public-Buildings-Projects.md)
 
-[Public Safety Answering Points](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Public-Safety-Answering-Points)
+[Public Safety Answering Points](./wiki/Public-Safety-Answering-Points.md)
 
 
 ## Q
 
 ## R
 
-[Rail Bridges](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Rail-Bridges)
+[Rail Bridges](./wiki/Rail-Bridges.md)
 
-[Rail Viaducts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Rail-Viaducts)
+[Rail Viaducts](./wiki/Rail-Viaducts.md)
 
-[Railroads](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Railroads)
+[Railroads](./wiki/Railroads.md)
 
 ## S
 
-[Sanitation Districts](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Districts)
+[Sanitation Districts](./wiki/Sanitation-Districts.md)
 
-[Sanitation Garages](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Garages)
+[Sanitation Garages](./wiki/Sanitation-Garages.md)
 
-[Sanitation Sections](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Sections)
+[Sanitation Sections](./wiki/Sanitation-Sections.md)
 
-[Sanitation Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sanitation-Zones)
+[Sanitation Zones](./wiki/Sanitation-Zones.md)
 
-[Scenic Landmarks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Scenic-Landmarks)
+[Scenic Landmarks](./wiki/Scenic-Landmarks.md)
 
-[Schools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Schools)
+[Schools](./wiki/Schools.md)
 
-[Senate Districts (state)](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Senate-Districts)
+[Senate Districts (state)](./wiki/Senate-Districts.md)
 
-[Shoreline](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Shoreline)
+[Shoreline](./wiki/Shoreline.md)
 
-[Sidewalk](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Sidewalk)
+[Sidewalk](./wiki/Sidewalk.md)
 
-[Snow Sectors](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Snow-Sectors)
+[Snow Sectors](./wiki/Snow-Sectors.md)
 
-[Subaddresses](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subaddresses)
+[Subaddresses](./wiki/Subaddresses.md)
 
-[Subterranean Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subterranean-Lots)
+[Subterranean Lots](./wiki/Subterranean-Lots.md)
 
-[Subway Entrances](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Entrances)
+[Subway Entrances](./wiki/Subway-Entrances.md)
 
-[Subway Lines](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Subway-Lines)
+[Subway Lines](./wiki/Subway-Lines.md)
 
-[Swimmming Pools](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Swimming-Pools)
+[Swimmming Pools](./wiki/Swimming-Pools.md)
 
 ## T
 
-[Tax Blocks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Blocks)
+[Tax Blocks](./wiki/Tax-Blocks.md)
 
-[Tax Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Lots)
+[Tax Lots](./wiki/Tax-Lots.md)
 
-[Tax Map](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Map)
+[Tax Map](./wiki/Tax-Map.md)
 
-[Transit Zones](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Transit-Zones)
+[Transit Zones](./wiki/Transit-Zones.md)
 
-[Truck Routes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Truck-Routes)
+[Truck Routes](./wiki/Truck-Routes.md)
 
-[Tunnels](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tunnels)
+[Tunnels](./wiki/Tunnels.md)
 
 ## U
 
@@ -273,9 +273,9 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## W
 
-[Water Tanks](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Water-Tanks)
+[Water Tanks](./wiki/Water-Tanks.md)
 
-[Wifi Hotspots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Wifi-Hotspots)
+[Wifi Hotspots](./wiki/Wifi-Hotspots.md)
 
 ## X
 
@@ -283,12 +283,13 @@ This fanciful wiki repository contains plain language info and tips useful when 
 
 ## Z
 
-[Zip Codes](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Zip-Codes)
+[Zip Codes](./wiki/Zip-Codes.md)
 
-[Zoning](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Zoning)
+[Zoning](./wiki/Zoning.md)
 
 ----
 
 
 ![](classyrolodex.png?raw=true)
+
 
