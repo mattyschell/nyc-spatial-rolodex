@@ -1,4 +1,4 @@
-The Fire Department of New York (FDNY) maintains Fire Companies.  Fire Companies nest within [[Fire-Battalions]] which nest within [[Fire-Divisions]].
+The Fire Department of New York (FDNY) maintains Fire Companies.  Fire Companies nest within [Fire-Battalions](./Fire-Battalions.md) which nest within [Fire-Divisions](./Fire-Divisions.md).
 
 The FDNY identifies fire company units with a letter E, L, or Q, followed by a number.
 

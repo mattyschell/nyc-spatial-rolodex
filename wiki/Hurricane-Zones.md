@@ -1,4 +1,4 @@
-New York City Emergency Management releases Hurricane Evacuation Zones (aka "Hurricane Zones", aka "HEZ") annually, usually in late spring.  Hurricane Evacuation Zones are built from collections of [[Atomic-Polygons]]
+New York City Emergency Management releases Hurricane Evacuation Zones (aka "Hurricane Zones", aka "HEZ") annually, usually in late spring.  Hurricane Evacuation Zones are built from collections of [Atomic-Polygons](./Atomic-Polygons.md)
 
 Zone 0 is the water and then zones 1 through 7 are on land.  Zone X is not a zone, it is a placeholder for territory without a zone.
 

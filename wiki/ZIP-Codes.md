@@ -46,7 +46,7 @@ Given an address we can also derive ZIP Codes from New York City's geocoders.  S
 * Geosupport (https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-gde-home.page)
 * Geoclient (https://api.cityofnewyork.us/geoclient/v1/doc)
 
-ZIP codes are also baked into [[Address-Points]]
+ZIP codes are also baked into [Address-Points](./Address-Points.md)
 
 All three of the links above should return the same ZIP code for an address.  Given the buffet of ZIP code boundaries available however, the ZIP code returned may or may not correspond to any of the other known ZIP code boundaries.
 

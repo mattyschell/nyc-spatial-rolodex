@@ -6,7 +6,7 @@ https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
 
 At times this download has included both closed and future (planned) stations.  Probably best to verify what you get today if these sorts of details matter to you.
 
-Intuitively you would expect that a subway station corresponds to one or more [[Subway-Lines]] and [[Subway-Entrances]].  If you have downloaded other "subway" datasets that include the Staten Island Railway, best to check that the download here matches the other ones, if that sort of detail matters to you. 
+Intuitively you would expect that a subway station corresponds to one or more [Subway-Lines](./Subway-Lines.md) and [Subway-Entrances](./Subway-Entrances.md).  If you have downloaded other "subway" datasets that include the Staten Island Railway, best to check that the download here matches the other ones, if that sort of detail matters to you. 
 
 
 ### Metropolitan Transportation Authority 

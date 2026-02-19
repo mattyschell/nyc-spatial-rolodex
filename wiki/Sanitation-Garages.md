@@ -1,4 +1,4 @@
-Sanitation Garages are the hubs from which the New York City Department of Sanitation manages its work.  Sanitation Garages appear to roughly correspond to [[Sanitation-Districts]], though some garages consolidate more than one district and some garages appear to be special purpose garages like vehicle repair shops.
+Sanitation Garages are the hubs from which the New York City Department of Sanitation manages its work.  Sanitation Garages appear to roughly correspond to [Sanitation-Districts](./Sanitation-Districts.md), though some garages consolidate more than one district and some garages appear to be special purpose garages like vehicle repair shops.
 
 Like other Department of Sanitation spatial data they will be commonly referred to as "DSNY Garages," pronounced "Dee-Ess-En-Why Garages."
 

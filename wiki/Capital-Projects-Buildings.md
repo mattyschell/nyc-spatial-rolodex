@@ -1,4 +1,4 @@
-The New York City Department of Design and Construction (DDC, pronounced "Dee Dee See") manages both public buildings (also called "structures") projects, in addition to [[Capital-Projects-Infrastructure]] .
+The New York City Department of Design and Construction (DDC, pronounced "Dee Dee See") manages both public buildings (also called "structures") projects, in addition to [Capital-Projects-Infrastructure](./Capital-Projects-Infrastructure.md) .
 
 
 ### Arcgis Web Feature Service

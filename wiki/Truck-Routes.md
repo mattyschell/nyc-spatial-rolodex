@@ -1,4 +1,4 @@
-The New York City Department of Transportation designates local and through truck routes and releases a spatial file for these routes based on the single line street network ([[Lion]]) dataset.
+The New York City Department of Transportation designates local and through truck routes and releases a spatial file for these routes based on the single line street network ([Lion](./Lion.md)) dataset.
 
 The Department of Transportation releases these files periodically, with a major release in 2014 and again in 2019.  
 

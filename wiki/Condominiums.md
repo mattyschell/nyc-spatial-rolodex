@@ -4,7 +4,7 @@ In those instances where a condominium exists on multiple base lots, multiple re
 
 To support the Property Information Portal the Department of Finance publishes a condo service on the [NYCMaps](https://nyc.maps.arcgis.com/home/index.html) ArcGIS Online organization.  The Department of Finance also publishes this data in some form on the NYC Open Data Portal.
 
-See [[Tax-Map]] for more background.
+See [Tax-Map](./Tax-Map.md) for more background.
 
 
 ## NYCMaps ArcGIS Online

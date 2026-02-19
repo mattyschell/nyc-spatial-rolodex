@@ -2,7 +2,7 @@
 
 From https://www1.nyc.gov/html/dot/html/infrastructure/protectedst.shtml
 
-See also [[Holiday-Embargo-Streets]]
+See also [Holiday-Embargo-Streets](./Holiday-Embargo-Streets.md)
 
 ### NYC Department of Transportation
 

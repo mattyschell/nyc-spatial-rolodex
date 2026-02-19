@@ -1,4 +1,4 @@
-For all parks see [[Park]]
+For all parks see [Park](./Park.md)
 
 The New York City Department of Parks and Recreation maintains two parks polygon datasets.  "Parks Properties" is New York City property under the jurisdiction of the Department of Parks and Recreation.  "Functional Parkland" is Parks Properties that have been reshaped for better cartographic presentation on printed or digital maps.  For example, many parks properties have been extended to the curbline in the functional parkland dataset. 
 
@@ -14,7 +14,7 @@ The publicly released Parks Properties differs slightly from the internal Parks 
 
 Minor caution: Depending on your software's tolerance and awareness of such things, many of the shapes in this dataset may be invalid. Best to download, check, and repair if necessary before proceeding.
 
-**Caution** In the past the Parks Properties dataset on NYC Open Data has been switcheroo'd with the [[Park-Zones]] dataset.  The Park Properties dataset should contain approximately 2,000 records.
+**Caution** In the past the Parks Properties dataset on NYC Open Data has been switcheroo'd with the [Park-Zones](./Park-Zones.md) dataset.  The Park Properties dataset should contain approximately 2,000 records.
 
 # NYC Open Data - Functional Parkland
 

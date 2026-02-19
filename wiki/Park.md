@@ -1,4 +1,4 @@
-For only parks managed by the City of New York see [[Park-Properties]]
+For only parks managed by the City of New York see [Park-Properties](./Park-Properties.md)
 
 ### Planimetrics Capture Rules
 

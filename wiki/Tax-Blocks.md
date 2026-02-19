@@ -1,6 +1,6 @@
 The Department of Finance publishes tax blocks on the [Property Information Portal](https://propertyinformationportal.nyc.gov/).  To support the Property Information Portal the Department of Finance publishes a tax block service on the [NYCMaps](https://nyc.maps.arcgis.com/home/index.html) ArcGIS Online organization.  The Department of Finance also publishes these blocks in some form on the NYC Open Data Portal.
 
-See [[Tax-Map]] for more background.
+See [Tax-Map](./Tax-Map.md) for more background.
 
 [Tax Lots](https://github.com/mattyschell/nyc-spatial-rolodex/wiki/Tax-Lots) nest within Tax Blocks.
 

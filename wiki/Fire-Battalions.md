@@ -1,4 +1,4 @@
-The Fire Department of New York (FDNY) maintains Fire Battalions.  [[Fire-Companies]] nest within Fire Battalions which nest within [[Fire-Divisions]].
+The Fire Department of New York (FDNY) maintains Fire Battalions.  [Fire-Companies](./Fire-Companies.md) nest within Fire Battalions which nest within [Fire-Divisions](./Fire-Divisions.md).
 
 ### Department of City Plannning: Bytes of The Big Apple
 

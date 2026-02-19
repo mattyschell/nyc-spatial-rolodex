@@ -1,6 +1,6 @@
 The New York City Department of City Planning publishes Greater Transit Zones. Greater Transit Zones are a new geography designated in 2024.
 
-See also [[transit-zones]]
+See also [transit-zones](./Transit-Zones.md)
 
 ### New York City Department of City Planning
 

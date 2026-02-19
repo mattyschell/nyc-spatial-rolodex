@@ -1,4 +1,4 @@
-The New York Police Department maintains police precinct boundaries. Police Precincts contain two or more [[Police-Sectors]], which nest within Precincts.  
+The New York Police Department maintains police precinct boundaries. Police Precincts contain two or more [Police-Sectors](./Police-Sectors.md), which nest within Precincts.  
 
 The New York Police Department has been actively re-aligning sector boundaries in phases, though these phases have not resulted in major changes to precinct boundaries.  However the Police Department does make continuous changes to Precinct boundaries to better align them with related geographies like street centerlines.
 

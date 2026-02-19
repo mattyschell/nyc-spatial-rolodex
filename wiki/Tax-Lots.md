@@ -1,10 +1,10 @@
 The Department of Finance publishes tax lots on the [Property Information Portal](https://propertyinformationportal.nyc.gov/).  To support the Property Information Portal the Department of Finance publishes a tax lot service on the [NYCMaps](https://nyc.maps.arcgis.com/home/index.html) ArcGIS Online organization.  The Department of Finance also publishes these lots in some form on the NYC Open Data Portal.
 
-See [[Tax-Map]] for more background.
+See [Tax-Map](./Tax-Map.md) for more background.
 
 Do not be fooled by the datasets named "Tax Lot **Face**" which describe lines around tax lots. Unless you are a tax map wizard you probably do not want to look at these lines.
 
-Tax lots nest within [[Tax-Blocks]].
+Tax lots nest within [Tax-Blocks](./Tax-Blocks.md).
 
 
 ## NYCMaps ArcGIS Online

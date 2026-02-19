@@ -1,10 +1,10 @@
 Sanitation Sections are the sub-geography in which Department of Sanitation garages manage their work. Sanitation Sections are commonly referred to as "DSNY Sections" and pronounced "Dee-Ess-En-Why Sections."
 
-Sanitation Sections are built from one or more [[Community-Districts]].  Sanitation Sections nest within [[Sanitation-Districts]] which in turn nest within [[Sanitation-Zones]].
+Sanitation Sections are built from one or more [Community-Districts](./Community-Districts.md).  Sanitation Sections nest within [Sanitation-Districts](./Sanitation-Districts.md) which in turn nest within [Sanitation-Zones](./Sanitation-Zones.md).
 
-Sanitation Sections are named like "BKS062" which a sanitation geography pro will immediately interpret as Section 2 in [[Sanitation-Districts]] 6 in the Brooklyn South [[Sanitation-Zones]].  The Department of Sanitation defines and uses this section name.  Sanitation Sections also have codes like "3062" which is section 062 within Brooklyn Borough (borough code 3).  The Department of City Planning uses and defines Sanitation Section codes.  Yes, Sanitation Sections are awarded 2 different unique identifiers.
+Sanitation Sections are named like "BKS062" which a sanitation geography pro will immediately interpret as Section 2 in [Sanitation-Districts](./Sanitation-Districts.md) 6 in the Brooklyn South [Sanitation-Zones](./Sanitation-Zones.md).  The Department of Sanitation defines and uses this section name.  Sanitation Sections also have codes like "3062" which is section 062 within Brooklyn Borough (borough code 3).  The Department of City Planning uses and defines Sanitation Section codes.  Yes, Sanitation Sections are awarded 2 different unique identifiers.
 
-The Department of Sanitation does not use Sanitation Sections for snow operations and instead uses [[Snow-Sectors]].
+The Department of Sanitation does not use Sanitation Sections for snow operations and instead uses [Snow-Sectors](./Snow-Sectors.md).
 
 ### Department of Sanitation REST service
 

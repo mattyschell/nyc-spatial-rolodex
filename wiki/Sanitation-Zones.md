@@ -1,8 +1,8 @@
 The Department of Sanitation (DSNY) manages its work within seven sanitation zones, commonly also referred to as "DSNY zones" and pronounced "Dee-Ess-En-Why Zones." 
 
-Sanitation Zones are composed of several [[Sanitation-Districts]], which in turn are built from [[Sanitation-Sections]] which are based on [[Community-Districts]].  Sanitation Zones have descriptive names like "Brooklyn South" with that zone represented as zone "BKS."
+Sanitation Zones are composed of several [Sanitation-Districts](./Sanitation-Districts.md), which in turn are built from [Sanitation-Sections](./Sanitation-Sections.md) which are based on [Community-Districts](./Community-Districts.md).  Sanitation Zones have descriptive names like "Brooklyn South" with that zone represented as zone "BKS."
 
-Sanitation Zones should not be confused with the proposed [[Commercial-Waste-Zones]].
+Sanitation Zones should not be confused with the proposed [Commercial-Waste-Zones](./Commercial-Waste-Zones.md).
 
 ### NYC Open Data
 

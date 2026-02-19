@@ -1,6 +1,6 @@
 The Department of Finance maintains Air Lots under the [Property Information Portal](https://propertyinformationportal.nyc.gov/).  The Department of Finance publishes these lots as a 3D and a non-spatial service on the [NYCMaps](https://nyc.maps.arcgis.com/home/index.html) ArcGIS Online organization.  The Department of Finance also publishes these lots in some form on the NYC Open Data Portal.
 
-See [[Tax-Map]] for more background.
+See [Tax-Map](./Tax-Map.md) for more background.
 
 The Air Lots table contains one record for every air lot in New York City. The associated information is the donating BBL. Air lot numbers must be between 9000 and 9989.
 

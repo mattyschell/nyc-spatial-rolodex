@@ -1,8 +1,8 @@
 Sanitation Districts are the middle-tier geography in which the Department of Sanitation manages work. Sanitation Districts are commonly referred to as "DSNY Districts" and pronounced "Dee-Ess-En-Why Districts."
 
-Sanitation Districts nest within the top-level [[Sanitation-Zones]]. Sanitation Districts are built up from [[Sanitation-Sections]].  Sanitation Districts are similar to [[Community-Districts]], with most Sanitation Districts having a corresponding Community District with a matching code and similar boundaries.  However Sanitation Districts do not include territory that is not served by the Department of Sanitation, like airports and large parks.
+Sanitation Districts nest within the top-level [Sanitation-Zones](./Sanitation-Zones.md). Sanitation Districts are built up from [Sanitation-Sections](./Sanitation-Sections.md).  Sanitation Districts are similar to [Community-Districts](./Community-Districts.md), with most Sanitation Districts having a corresponding Community District with a matching code and similar boundaries.  However Sanitation Districts do not include territory that is not served by the Department of Sanitation, like airports and large parks.
 
-Sanitation Districts are named like "BKS06" for district 6 within the Brooklyn South [[Sanitation-Zones]].  The Department of Sanitation defines and uses this name.  Sanitation Districts also have codes like "306" which is district 6 within Brooklyn Borough (borough code 3).  The Department of City Planning uses and defines Sanitation District codes.  Oh yes, this dataset uses 2 different unique identifiers.
+Sanitation Districts are named like "BKS06" for district 6 within the Brooklyn South [Sanitation-Zones](./Sanitation-Zones.md).  The Department of Sanitation defines and uses this name.  Sanitation Districts also have codes like "306" which is district 6 within Brooklyn Borough (borough code 3).  The Department of City Planning uses and defines Sanitation District codes.  Oh yes, this dataset uses 2 different unique identifiers.
 
 
 ### NYC Open Data

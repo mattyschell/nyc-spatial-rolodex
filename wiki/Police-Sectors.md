@@ -1,4 +1,4 @@
-The New York Police Department maintains police sector boundaries. Police sectors nest within [[Police-Precincts]].  The New York Police Department has been actively re-aligning sector boundaries in what they refer to as phases.  Each phase usually sees several sectors merged within 5-10 precincts.
+The New York Police Department maintains police sector boundaries. Police sectors nest within [Police-Precincts](./Police-Precincts.md).  The New York Police Department has been actively re-aligning sector boundaries in what they refer to as phases.  Each phase usually sees several sectors merged within 5-10 precincts.
 
 # Open Data Portal
 
