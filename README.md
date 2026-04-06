@@ -275,7 +275,7 @@ This repository uses plain language info to help search for and use spatial data
 
 ## Z
 
-[Zip Codes](./wiki/Zip-Codes.md)
+[Zip Codes](./wiki/ZIP-Codes.md)
 
 [Zoning](./wiki/Zoning.md)
 
