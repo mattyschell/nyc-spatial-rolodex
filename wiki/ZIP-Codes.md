@@ -14,9 +14,11 @@ If you read all of the above and, thus familiarized, still want to use ZIP codes
 
 ### NYC Open Data
 
-NYC Open data removed ZIP Codes from the open data portal in 2023.
+In spring 2026 NYC Open Data published US Census Bureau ZCTAs clipped to New York City.
 
-Many members of the public pointed out what they considered to be inaccuracies in the ZIP Code boundaries. Without an authoritative source the GIS experts felt it best to remove the ZIP Codes. No ZIP Codes was preferable to making implied claims about the legacy ZIP Codes on NYC Open Data being authoritative in any way.
+https://data.cityofnewyork.us/City-Government/ZIP-Code-Tabulation-Areas/35j5-n34v/about_data
+
+In 2023 NYC Open data removed what kinda sorta looked like official NYC ZIP Codes from the open data portal. Many members of the public pointed out what they considered to be inaccuracies in the ZIP Code boundaries. Without an authoritative source the experts felt it best to remove the ZIP Code dataset. No ZIP Codes was preferable to making implied claims about the legacy ZIP Codes on NYC Open Data being authoritative in any way.
 
 ### NYC Street Centerline Database
 
