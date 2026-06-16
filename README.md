@@ -170,6 +170,8 @@ This repository uses plain language info to help search for and use spatial data
 
 [Parking Meters](./wiki/Parking-Meters.md)
 
+[Parking Signs](./wiki/Parking-Signs.md)
+
 [Pavement Edge](./wiki/Pavement-Edge.md)
 
 [Pedestrian Bridges](./wiki/Pedestrian-Bridges.md)
