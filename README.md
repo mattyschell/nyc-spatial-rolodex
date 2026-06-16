@@ -235,6 +235,8 @@ This repository uses plain language info to help search for and use spatial data
 
 [Snow Sectors](./wiki/Snow-Sectors.md)
 
+[Storefronts](./wiki/Storefronts.md)
+
 [Subaddresses](./wiki/Subaddresses.md)
 
 [Subterranean Lots](./wiki/Subterranean-Lots.md)
