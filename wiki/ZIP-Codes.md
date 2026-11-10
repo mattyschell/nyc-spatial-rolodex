@@ -30,6 +30,12 @@ Some staff at the NYC Office of Technology and Innovation recall that these ZIP 
 
 Internal legacy tools in the CSCL database continue to apply these ZIP Codes to street centerlines. The Department of City Planning periodically corrects centerline ZIP codes where commercial data does not match the ancient ZIP Code polygon boundaries in the database.  
 
+### US Postal Service
+
+In fall of 2026 the US Postal Service started selling ZIP Code boundaries.  These start at $10,000. The $150,000 "publication" tier only allows publication of maps and graphics, not the underlying spatial data.
+
+https://postalpro.usps.com/zcb
+
 ### Other Sources
 
 US Census Bureau Tiger Line Shape Files (ZCTAs)
